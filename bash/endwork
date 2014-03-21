@@ -1,0 +1,5 @@
+# endwork
+
+TIME=$(date +%r)
+
+echo "end work   " $TIME >> ~/.timesheet

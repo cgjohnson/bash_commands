@@ -1,0 +1,7 @@
+# beginwork
+
+DATE=$(date +%D)
+TIME=$(date +%r)
+
+echo $DATE >> ~/.timesheet
+echo "begin work " $TIME >> ~/.timesheet
