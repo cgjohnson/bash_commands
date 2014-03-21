@@ -8,4 +8,5 @@ located at ~/.timesheet
 
 current iteration: bash
 
-to come: ruby, python, c++, and possibly others.
+in progress: ruby
+to come: python, c++, and possibly others.
